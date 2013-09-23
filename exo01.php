@@ -1,5 +1,5 @@
 <?php
- $nomEtu="t3ti";
- echo $nomEtu;
+ $nomEtudiant="titi";
+ echo $nomEtudiant;
  
 ?>
